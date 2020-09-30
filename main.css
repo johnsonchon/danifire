@@ -27,6 +27,22 @@ p {
     font-size: 16px;
 }
 
+.p-bold {
+    font-weight: 700;
+}
+
+.yellow {
+    color: rgb(255, 207, 49);
+}
+
+.blue {
+    color: rgb(56, 56, 255);
+}
+
+.pink {
+    color: rgb(237, 46, 78);
+}
+
 .title-p {
     font-size: 16px;
     font-weight: 600;
@@ -662,7 +678,7 @@ footer {
 
 .about-right {
     width: 30%;
-    background-image: url('./images/vaping-guy.jpg');
+    background-image: url('./images/color-skate.jpg');
 }
 
 /* contact */
